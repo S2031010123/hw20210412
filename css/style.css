@@ -1,0 +1,142 @@
+*{margin: 0px;padding: 0px;}
+
+body img{
+    margin-left: -250px;
+}
+header{
+    width: 1200px;
+    margin: 0 auto;
+    position: relative;
+
+}
+
+.to{
+    height: 34px;
+    display: block;
+    background-color: #e3e4e5;
+}
+.bjtu{
+    height: 350px;
+    margin-left: -600px;
+    overflow: hidden;
+}
+.lx{
+    margin-left: 55px;
+    font-size: 16px;
+    position: relative; 
+    margin-top: -18px;
+    height:15px;
+    width: 20px;
+    overflow: hidden;
+    float: right;
+}
+.wdjd .lx p{
+    margin: 0px;
+    margin-top: -15px;
+}
+.lx p{
+    margin-top: -17px;
+}
+.wdjd1 p{
+    line-height: 35px;
+}
+.wdjd{
+    width: 90px;
+    height: 35px;
+    text-align: center;
+    line-height: 30px;
+}
+.wdjd:hover{
+    background-color: #fff;
+}
+.wdjd a:hover{
+    color: #e33333;
+}
+.wdjd1 li a:hover{
+    color:#e33333;
+}
+.wdjd:hover .wd{
+ 
+    display: block;
+    background-color: #fff;
+    top: 0px;
+    left: 0px;
+}
+ul{
+    list-style: none;
+    font-family: "微软雅黑";
+    font-size: 12px;
+}
+.xian{
+    display: block;
+    float: left;
+    margin-top: 5px;
+    width: 250px;
+    border-top:1px solid #f1f1f1;
+}
+li a{
+    color: #999;
+    text-decoration: none;
+}
+li a:hover{
+    color: #e33333;
+}
+ li{
+    
+    line-height: 35px;
+    margin-left: 20px;
+    float: left;
+}
+.wdjd li{
+    width: auto;
+    margin-right: 16px;
+    line-height: 30px;
+    margin-top: 8px;
+    float: left;
+}
+
+.wd li:nth-child(2n+1){
+    margin-right: 55px;
+}
+.wd li:nth-child(6){
+    margin-left: 32px;
+}
+.wd li:nth-child(10){
+    margin-left: 32px;
+}
+.wd li:nth-child(12){
+    margin-left: 32px;
+}
+.hon{
+    color: #e33333;
+}
+.wd{
+   display: none;
+   border-bottom: 1px solid #f1f1f1;
+   border-right: 1px solid #f1f1f1;
+   border-left: 1px solid #f1f1f1;
+   height: 200px;
+   width: 250px;
+   
+}
+.sx{
+    margin-top: 12px;
+    width: 1px;
+    height: 10px;
+    background: #ddd;
+}
+.wdjd .wdjd1{
+
+    color: #999;
+    text-decoration: none;
+    font: 12px/1.5 Microsoft YaHei,Heiti SC,tahoma,arial,Hiragino Sans GB,"\5B8B\4F53",sans-serif;
+    font-family: "微软雅黑";
+}
+img{    
+    position: absolute;
+    left:30px;
+    top:50px;
+    z-index: -1;
+  
+
+}
