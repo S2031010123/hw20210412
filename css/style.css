@@ -10,16 +10,7 @@ header{
 
 }
 
-.to{
-    height: 34px;
-    display: block;
-    background-color: #e3e4e5;
-}
-.bjtu{
-    height: 350px;
-    margin-left: -600px;
-    overflow: hidden;
-}
+
 .lx{
     margin-left: 55px;
     font-size: 16px;
@@ -67,14 +58,8 @@ ul{
     font-family: "微软雅黑";
     font-size: 12px;
 }
-.xian{
-    display: block;
-    float: left;
-    margin-top: 5px;
-    width: 250px;
-    border-top:1px solid #f1f1f1;
-}
-li a{
+
+ li a{
     color: #999;
     text-decoration: none;
 }
@@ -94,19 +79,15 @@ li a:hover{
     margin-top: 8px;
     float: left;
 }
+.sl{
+    overflow: hidden;
+    margin: 11px 5px 0;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+}
 
-.wd li:nth-child(2n+1){
-    margin-right: 55px;
-}
-.wd li:nth-child(6){
-    margin-left: 32px;
-}
-.wd li:nth-child(10){
-    margin-left: 32px;
-}
-.wd li:nth-child(12){
-    margin-left: 32px;
-}
+
 .hon{
     color: #e33333;
 }
@@ -139,4 +120,18 @@ img{
     z-index: -1;
   
 
+}
+.vd{
+    padding-right: 20px!important;
+    height: 28px;
+    line-height: 28px;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+    float: left;
+    border: 1px solid #e3e4e5;
+}
+.wq{
+    padding-left: 7px;
+    padding-right: 7px;
 }
